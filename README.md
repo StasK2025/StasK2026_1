@@ -1,6 +1,28 @@
+<!--
+  ПРОФИЛЬ GITHUB — что заменить перед публикацией:
+  1) username            → ваш логин на GitHub (в ссылках, бейджах и статистике)
+  2) @username / t.me    → ваш ник в Telegram
+  3) блок статистики внизу — раскомментируйте, если захотите графики
+-->
+
+<div align="center">
+
 # Привет, я Стас! 🚀
 
 **Начинающий веб-разработчик** — собираю сайты вручную, на чистых HTML, CSS и JavaScript
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Статус](https://img.shields.io/badge/СТАТУС-В_ПОЛЁТЕ-7C3AED?style=for-the-badge)
+![Открыт к предложениям](https://img.shields.io/badge/ОТКРЫТ_К_ПРЕДЛОЖЕНИЯМ-16A34A?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -46,3 +68,11 @@
 ---
 
 *Открыт к сотрудничеству, идеям и хорошему коду. Спасибо, что заглянули!* ✨
+
+<!-- Графики на профиле. Если раскомментируете — замените в ссылках username на свой логин,
+     иначе бейдж напишет «USER/ORG NOT FOUND»:
+
+![Статистика GitHub](https://img.shields.io/github/stars/username?style=for-the-badge&label=Stars&color=7C3AED)
+![Мои языки](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true)
+
+-->
